@@ -1,5 +1,5 @@
 {
-    "version": "1.0.10",
-    "download_url": "https://github.com/KerzaDev/launcher-mc/releases/download/v1.0.10/ArcadiaSMP.zip",
-    "changelog": "Update plus fiable : logs detailles + message d'erreur visible, anti-cache GitHub, et modpack v38.0 resync avec le serveur."
+    "version": "1.0.11",
+    "download_url": "https://github.com/KerzaDev/launcher-mc/releases/download/v1.0.11/ArcadiaSMP.zip",
+    "changelog": "Nouveaux mods ajoutes au modpack (v39.0). Mise a jour automatique du launcher + re-telechargement du pack."
 }
