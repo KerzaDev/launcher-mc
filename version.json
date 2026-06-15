@@ -1,5 +1,5 @@
 {
-    "version": "1.0.12",
-    "download_url": "https://github.com/KerzaDev/launcher-mc/releases/download/v1.0.12/ArcadiaSMP.zip",
-    "changelog": "Correctif important : la version n'est enregistree qu'apres remplacement reussi de l'exe (sinon modpack jamais retelecharge). Modpack v39.0."
+    "version": "1.0.13",
+    "download_url": "https://github.com/KerzaDev/launcher-mc/releases/download/v1.0.13/ArcadiaSMP.zip",
+    "changelog": "Nouveau modpack (v40.0) : nouveau lien + re-telechargement force du pack."
 }
