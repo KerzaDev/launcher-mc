@@ -1,5 +1,5 @@
 {
-    "version": "1.0.15",
-    "download_url": "https://github.com/KerzaDev/launcher-mc/releases/download/v1.0.15/ArcadiaSMP.zip",
-    "changelog": "Nouveau modpack (v41.0) : re-telechargement du pack mis a jour."
+    "version": "1.0.16",
+    "download_url": "https://github.com/KerzaDev/launcher-mc/releases/download/v1.0.16/ArcadiaSMP.zip",
+    "changelog": "Launcher en build onedir (fini l'erreur 'Failed to load Python DLL') + auto-update du dossier complet. Modpack v41.0."
 }
