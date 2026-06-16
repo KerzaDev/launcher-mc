@@ -1,5 +1,5 @@
 {
-    "version": "1.0.20",
-    "download_url": "https://github.com/KerzaDev/launcher-mc/releases/download/v1.0.20/ArcadiaSMP.zip",
-    "changelog": "arcadia minerai !!!!"
+    "version": "1.0.21",
+    "download_url": "https://github.com/KerzaDev/launcher-mc/releases/download/v1.0.21/ArcadiaSMP.zip",
+    "changelog": "Launcher onedir (fin de l'erreur DLL) + securite : plus aucun secret (token bot / RCON) dans le launcher distribue. Demarrage via webhook."
 }
