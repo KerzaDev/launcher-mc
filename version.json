@@ -1,6 +1,6 @@
 {
-  "version": "1.0.23",
-  "download_url": "https://github.com/KerzaDev/launcher-mc/releases/download/v1.0.23/ArcadiaSMP.zip",
-  "changelog": "Recompilation du launcher (modpack v45.0 inchange).",
-  "sha256": "d22f03577b0a3fc859d557c09369b780af51b873691c375cef97a3de3526da23"
+  "version": "1.0.24",
+  "download_url": "https://github.com/KerzaDev/launcher-mc/releases/download/v1.0.24/ArcadiaSMP.zip",
+  "changelog": "Le modpack se telecharge desormais a cote du launcher (corrige 'No space left' quand le disque C: est plein).",
+  "sha256": "c25dcbf05b494684078662ce63dc47bd80792cf4ca81baa70af2595782d75735"
 }
