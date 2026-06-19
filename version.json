@@ -1,6 +1,6 @@
 {
-  "version": "1.0.26",
-  "download_url": "https://github.com/KerzaDev/launcher-mc/releases/download/v1.0.26/ArcadiaSMP.zip",
-  "changelog": "Nouvelle interface graphique (GUI) du launcher.",
-  "sha256": "d92d1ddd5c2a5586597b290a585a7ddfd3620d6e2d7a7ebb51474c152d1b817b"
+  "version": "1.0.27",
+  "download_url": "https://github.com/KerzaDev/launcher-mc/releases/download/v1.0.27/ArcadiaSMP.zip",
+  "changelog": "taux de drop de l'arcadia amélioré",
+  "sha256": "30e75d8b929d081b5de74f5a1c21d34e88e6ab57627fa4e7a383e2bba2aa303b"
 }
