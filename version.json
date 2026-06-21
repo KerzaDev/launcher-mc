@@ -1,6 +1,6 @@
 {
   "version": "1.0.28",
   "download_url": "https://github.com/KerzaDev/launcher-mc/releases/download/v1.0.28/ArcadiaSMP.zip",
-  "changelog": "Refonte UI v2 : animations fluides, sidebar a labels, news cliquables (Arcadia, Hammers, Pass Arcadia), verif/reparation des fichiers, temps de jeu, acces rapide aux dossiers. Stabilite renforcee.",
+  "changelog": "amelioration du launcher = taux de drops de l'arcadia augmenter",
   "sha256": "d44ed0826f5c6c0e07d69b63210f338f533dcdc2dd564971af49a3bdb71cf266"
 }
