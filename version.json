@@ -1,6 +1,6 @@
 {
-  "version": "1.0.32",
-  "download_url": "https://github.com/KerzaDev/launcher-mc/releases/download/v1.0.32/ArcadiaSMP.zip",
+  "version": "1.0.33",
+  "download_url": "https://github.com/KerzaDev/launcher-mc/releases/download/v1.0.33/ArcadiaSMP.zip",
   "changelog": "Refonte complete de l'interface (WebView) : pages Accueil/Jouer/Compte/Parametres, 7 themes de couleur, nouvelle banniere. Corrige le crash/ecran blanc au demarrage.",
-  "sha256": "557967e38a3a021e127760b2018d8759531db088886b2c647457197b180d7fd0"
+  "sha256": "e103d16ced64b2ce1f3101350cf598a10670424df72f5a4bb9733d8a02cfbd83"
 }
